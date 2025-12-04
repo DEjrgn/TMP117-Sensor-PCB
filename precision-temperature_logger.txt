@@ -1,0 +1,7 @@
+ For the Baumeister-Lab precision-temperature-logger 
+ 
+ construction data please visit
+
+ https://github.com/Ekkehard-Schulze/precision-temperature-logger
+ 
+ 
